@@ -2,7 +2,7 @@ const axios = require("axios");
 const ethers = require("ethers");
 
 //TODO: Figure out how to get the address for FreshDAO verified... if possible....
-const address = "0x9CB56f993260790Bb91a59104e75cb084Bc374e0";
+const address = "0x0000000000000000000000000000000000001010";
 
 const apiKey = "X8BUYYT47EW9NK48KG6V7AHU8SG9SQPFB3";
 
